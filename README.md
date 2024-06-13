@@ -163,7 +163,7 @@ Cada visão possui as seguintes métricas apresentadas
 
 Painel online, hospedado em uma cloud e disponível para qualquer dispositivo que tenha acesso a internet.
 
-O painel pode ser acessado através do link: ferreirapaulo-fome-zero.streamlit.app
+O painel pode ser acessado através clicando em: [Painel Streamlit](https://ferreirapaulo-fome-zero.streamlit.app)
 
 # 6. Conclusão
 
